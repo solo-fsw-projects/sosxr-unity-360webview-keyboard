@@ -1,4 +1,4 @@
-repository "GTKSample@mrstruijk@cloud"
+repository "Keyboard360@sosxr@cloud"
   path "/"
     br "/main"
     co "/main"
